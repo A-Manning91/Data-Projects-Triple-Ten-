@@ -1,4 +1,3 @@
-
 # 📊 Restaurant Sales & Performance Dashboard – README
 
 ## 🧭 Introduction
