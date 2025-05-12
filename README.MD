@@ -1,13 +1,11 @@
-# 🔗 Link to Tableau Project:
-https://public.tableau.com/views/AlexisManning-Sprint5Project/ReturnAnalysisOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
-
 # 📦 Return Analysis Dashboard – README
 
-## 🧭 Introduction
+## 🧭 Overview
 
 The Return Analysis Dashboard investigates customer return behavior to identify key trends by product type, state, customer group, and time of year. The goal is to help businesses reduce return rates, improve inventory management, and optimize fulfillment strategies using real return data.
 
+# 🔗 Link to Tableau Project:
+https://public.tableau.com/views/AlexisManning-Sprint5Project/ReturnAnalysisOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---
 
 ## 🔍 What Was Done
